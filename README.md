@@ -29,7 +29,7 @@ tech_stack = {
     "Frameworks": ["LangChain ⛓️", "LangGraph 📊", "Streamlit 🌊"]
 }
 ```
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sanatwalia896&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sanatwalia896&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
