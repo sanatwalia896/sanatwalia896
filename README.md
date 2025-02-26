@@ -101,11 +101,4 @@ An AI-powered **real-time emotion detection** system for **educators & engagemen
 
 ---
 
-### 🔥 **New Features Added:**  
-✅ **Space Theme** (Tokyonight + React Dark for GitHub Stats)  
-✅ **Animated Activity Graph** for contributions  
-✅ **More GitHub plugins** to enhance profile appeal  
-✅ **Flashy but professional design**  
-
-This version makes your GitHub profile **visually appealing** while showcasing your **projects, achievements, and expertise**. Let me know if you want more tweaks! 🚀✨
 
