@@ -81,7 +81,7 @@ An AI-powered **real-time emotion detection** system for **educators & engagemen
 ## 🌱 **Beyond Code**
 
 - 🎵 **Lofi beats** = 🚀 **Productivity unlocked**
-- 🎮 **LeetCode addict** & **competitive programmer**
+- 🎮 **Hustling in Leetcode**
 - ☕ **Chai > Coffee**, change my mind 😆
 - 🌟 **Dream Project**: AI that **understands Indian cultural contexts** deeply
 
