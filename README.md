@@ -158,16 +158,42 @@ Full ML pipeline: ETL with Apache Beam → training → experiment tracking → 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sanatwalia896&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanatwalia896&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sanatwalia896&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanatwalia896&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sanatwalia896&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=sanatwalia896&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanatwalia896&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sanatwalia896&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanatwalia896&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/6366f1/sanatwalia896" alt="Sanat's GitHub Contribution Heatmap"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanatwalia896&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanatwalia896&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanatwalia896&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanatwalia896&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanatwalia896&theme=tokyonight&utcOffset=5.5"/>
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=sanatwalia896&label=Profile%20Views&color=6&icon=5&pretty=true"/>
 </p>
 
 ---
